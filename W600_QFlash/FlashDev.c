@@ -12,7 +12,7 @@
 
 struct FlashDevice const FlashDevice  =  {
    FLASH_DRV_VERS,             // Driver Version, do not modify!
-   "Winner Micro 1M Flash", // Device Name 
+   "Winner Micro 1M Flash V1.0", // Device Name 
    ONCHIP,                     // Device Type
    0x08000000,                 // Device Start Address
    0x00100000,                 // Device Size in Bytes (1MB)
