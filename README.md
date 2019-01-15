@@ -16,13 +16,9 @@
 
 ## 2. 配置 FLash Download 选项
 
-找到 Jlink Settings -> Flash Download 页面，点击 Add 调出Flash配置选择页面。
+选择 Project->Options for Target 打开对话框，切换到 Utilities 标签界面，点击 Setting，如下图 Flash Download 标签中配置 RAM 和 Flash 参数必须与前面配置的地址 一致，点击 Add 按钮选择 W60X 芯片的 Flash 驱动。
 
-![1539581348424](README.assets/1539581348424.png)
-
-找到 Winner Micro 1M Flash 选项并点击下方Add按钮，即可添加更新 Flash 配置。
-
-![1539581249516](README.assets/1539581249516.png)
+![1547516488553](D:\Work\1_Lsd\W600_QFLASH_Driver_for_SWD\README.assets\1547516488553.png)
 
 ## 其它
 
